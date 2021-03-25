@@ -1,0 +1,23 @@
+.nav-brand{
+	margin-left: 50px;
+	padding-top: 12px;
+	
+}
+
+.container-fluid{
+	background-color: white;
+
+}
+
+.panel-default{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+
+.panel-title{
+	text-align: center;
+	font-size: 25px;
+	color: blue;
+	
+}
